@@ -4,12 +4,12 @@ Primeiro jogo de Helicoptero feito com HTML, CSS e JavaScript
 
 Tela de Inicio:
 
-![Getting Started](./telaDeInicio.jpeg)
+![Getting Started](telaDeInicio.jpg)
 
 Ingame:
 
-![Getting Started](./inGame.jpeg)
+![Getting Started](inGame.jpg)
 
 Game Over:
 
-![Getting Started](./gameOver.jpeg)
+![Getting Started](gameOver.jpg)
